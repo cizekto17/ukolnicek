@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nE3naECAiLFiU45aXnZ/vkikEytLLJ16xm926v4LuCdn/zqKhQwN4I0DhpP+3CHdOyTKhlLv0jxd4R317djFIQ==",
+  "dgSpecHash": "AEEVmgPWK1dSbSImlWfXum9MVOrJn/Vr/fY6dHMfrPY7zQgh32hM529GMWciLfHkEnSZ7Gb5rA4mR6HQ4xLGSQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tomas\\source\\repos\\Notes\\Notes\\Notes.Android\\Notes.Android.csproj",
+  "projectFilePath": "C:\\Users\\tomas\\source\\repos\\ukolnicek\\Notes\\Notes\\Notes.Android\\Notes.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tomas\\.nuget\\packages\\sqlite-net-pcl\\1.7.335\\sqlite-net-pcl.1.7.335.nupkg.sha512",
     "C:\\Users\\tomas\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.3\\sqlitepclraw.bundle_green.2.0.3.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nE44XUhbeKO76hHdY3sBRnDQRqnhhPpMhUoaI4KmA9nJ9h3sGfp586WFojVAUdsasycxf7zw90aFL99MMfugTg==",
+  "dgSpecHash": "Ur4OHn6pwm7Yj6whdUoPyknVJ3P5onte6+PdBb/+I7gCV+oLH+d4+qi5TRYAbRgSjcjHABx3+rkE2TY4pVCTEA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tomas\\source\\repos\\Notes\\Notes\\Notes.iOS\\Notes.iOS.csproj",
+  "projectFilePath": "C:\\Users\\tomas\\source\\repos\\ukolnicek\\Notes\\Notes\\Notes.iOS\\Notes.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tomas\\.nuget\\packages\\sqlite-net-pcl\\1.7.335\\sqlite-net-pcl.1.7.335.nupkg.sha512",
     "C:\\Users\\tomas\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.3\\sqlitepclraw.bundle_green.2.0.3.nupkg.sha512",

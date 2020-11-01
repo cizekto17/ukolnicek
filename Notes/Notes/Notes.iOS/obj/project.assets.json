@@ -1443,11 +1443,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tomas\\source\\repos\\Notes\\Notes\\Notes.iOS\\Notes.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\tomas\\source\\repos\\ukolnicek\\Notes\\Notes\\Notes.iOS\\Notes.iOS.csproj",
       "projectName": "Notes.iOS",
-      "projectPath": "C:\\Users\\tomas\\source\\repos\\Notes\\Notes\\Notes.iOS\\Notes.iOS.csproj",
+      "projectPath": "C:\\Users\\tomas\\source\\repos\\ukolnicek\\Notes\\Notes\\Notes.iOS\\Notes.iOS.csproj",
       "packagesPath": "C:\\Users\\tomas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tomas\\source\\repos\\Notes\\Notes\\Notes.iOS\\obj\\",
+      "outputPath": "C:\\Users\\tomas\\source\\repos\\ukolnicek\\Notes\\Notes\\Notes.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1468,8 +1468,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\tomas\\source\\repos\\Notes\\Notes\\Notes\\Notes.csproj": {
-              "projectPath": "C:\\Users\\tomas\\source\\repos\\Notes\\Notes\\Notes\\Notes.csproj"
+            "C:\\Users\\tomas\\source\\repos\\ukolnicek\\Notes\\Notes\\Notes\\Notes.csproj": {
+              "projectPath": "C:\\Users\\tomas\\source\\repos\\ukolnicek\\Notes\\Notes\\Notes\\Notes.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hvKJN7/lOgpmB24CvzDoPpGSWImUGiVLOUH8AOE0PNgq/VBUCdbYMJvOQddU9ShzOQm3pn/2TlIyVdbEA6NVEw==",
+  "dgSpecHash": "kQzi0406g3bTO6PA7gUFlG4z4pEMWLPbD2nLkZ949AhfQAo8Z5qmP50Wc5kAHe1jKbDROJUgWAV4YZWCDvAgKg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tomas\\source\\repos\\Notes\\Notes\\Notes\\Notes.csproj",
+  "projectFilePath": "C:\\Users\\tomas\\source\\repos\\ukolnicek\\Notes\\Notes\\Notes\\Notes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tomas\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\tomas\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
