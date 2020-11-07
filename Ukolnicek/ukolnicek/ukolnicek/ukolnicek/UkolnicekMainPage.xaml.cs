@@ -21,7 +21,7 @@ namespace ukolnicek
             listView.ItemsSource = await App.Database.GetNotesAsync();
         }
 
-        async void OnNoteAddedClicked(object sender, EventArgs e)
+        async void AddUkol(object sender, EventArgs e)
         {
             await Navigation.PushAsync(new UkolnicekCreatePage
             {

@@ -2,10 +2,10 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="ukolnicek.UkolnicekMainPage"
-             Title="Ukolnicek">
+             Title="Ukolníček">
     <ContentPage.ToolbarItems>
         <ToolbarItem Text="Přidat úkol"
-                     Clicked="OnNoteAddedClicked" />
+                     Clicked="AddUkol" />
     </ContentPage.ToolbarItems>
     <ListView x:Name="listView"
               Margin="20"
@@ -17,5 +17,7 @@
                           TextColor="Black"/>
             </DataTemplate>
         </ListView.ItemTemplate>
+        
     </ListView>
+    
 </ContentPage>
