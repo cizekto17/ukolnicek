@@ -26,12 +26,7 @@ namespace ukolnicek
             await Navigation.PopAsync();
         }
 
-        async void OnDeleteButtonClicked(object sender, EventArgs e)
-        {
-            var note = (Models.Ukol)BindingContext;
-            await App.Database.DeleteNoteAsync(note);
-            await Navigation.PopAsync();
-        }
+        
     }
 
 }

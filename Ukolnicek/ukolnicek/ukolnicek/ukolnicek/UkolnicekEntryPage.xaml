@@ -12,20 +12,20 @@
         <Editor Placeholder="Upravit úkol"
                 Text="{Binding Text}"
                 HeightRequest="100" />
-        <Label Text="Čas a Datum poslední změny" HorizontalOptions="Center" Margin="0,20,0,0"/>
+        <Label Text="Datum a čas poslední změny" HorizontalOptions="Center" Margin="0,20,0,0"/>
         <Label Text="{Binding New_Date}" HorizontalOptions="Center"/>
         
-        <Label Text="Čas a Datum vytvoření" HorizontalOptions="Center" Margin="0,20,0,0"/>
+        <Label Text="Datum a čas vytvoření" HorizontalOptions="Center" Margin="0,20,0,0"/>
         <Label Text="{Binding Original_Date}" HorizontalOptions="Center" Margin="0,0,0,20"/>
         <Grid>
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="*" />
                 <ColumnDefinition Width="*" />
             </Grid.ColumnDefinitions>
-            <Button Text="Update"
+            <Button Text="Upravit"
                     Clicked="OnSaveButtonClicked" />
             <Button Grid.Column="1"
-                    Text="Delete"
+                    Text="Smazat"
                     Clicked="OnDeleteButtonClicked"/>
         </Grid>
     </StackLayout>
