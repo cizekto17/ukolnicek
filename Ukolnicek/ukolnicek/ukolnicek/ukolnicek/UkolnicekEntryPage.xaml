@@ -5,11 +5,11 @@
              Title="Upravení úkolu">
     <StackLayout Margin="20">
         <Label Text="Upravit název úkolu"/>
-        <Editor Placeholder="Upravit název úkolu"
+        <Editor Placeholder="Upravit název úkolu" 
                 Text="{Binding Name}"
                 HeightRequest="100" />
         <Label Text="Upravit úkol"/>
-        <Editor Placeholder="Upravit úkol"
+        <Editor Placeholder="Upravit úkol"  
                 Text="{Binding Text}"
                 HeightRequest="100" />
         <Label Text="Datum a čas poslední změny" HorizontalOptions="Center" Margin="0,20,0,0"/>

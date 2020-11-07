@@ -5,7 +5,7 @@
              Title="Ukolníček">
     <ContentPage.ToolbarItems>
         <ToolbarItem Text="Přidat úkol"
-                     Clicked="AddUkol" />
+                     Clicked="AddUkol" Order="Secondary"/>
     </ContentPage.ToolbarItems>
     <ListView x:Name="listView"
               Margin="20"
