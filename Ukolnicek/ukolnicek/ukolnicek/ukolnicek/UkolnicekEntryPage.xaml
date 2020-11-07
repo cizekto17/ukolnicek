@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ukolnicek.UkolnicekEntryPage"
+             Title="Upravení úkolu">
+    <StackLayout Margin="20">
+        <Label Text="Upravit název úkolu"/>
+        <Editor Placeholder="Upravit název úkolu"
+                Text="{Binding Name}"
+                HeightRequest="100" />
+        <Label Text="Upravit úkol"/>
+        <Editor Placeholder="Upravit úkol"
+                Text="{Binding Text}"
+                HeightRequest="100" />
+        <Label Text="Čas vytvoření"/>
+        <Label Text="{Binding New_Date}"/>
+        <Label Text="Čas poslední změny"/>
+        <Label Text="{Binding Original_Date}"/>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Button Text="Update"
+                    Clicked="OnSaveButtonClicked" />
+            <Button Grid.Column="1"
+                    Text="Delete"
+                    Clicked="OnDeleteButtonClicked"/>
+        </Grid>
+    </StackLayout>
+</ContentPage>

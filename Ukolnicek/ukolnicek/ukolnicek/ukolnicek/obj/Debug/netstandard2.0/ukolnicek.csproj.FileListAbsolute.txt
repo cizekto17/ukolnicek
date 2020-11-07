@@ -1,0 +1,16 @@
+C:\Users\tomas\source\repos\ukolnicek\Ukolnicek\ukolnicek\ukolnicek\ukolnicek\bin\Debug\netstandard2.0\ukolnicek.deps.json
+C:\Users\tomas\source\repos\ukolnicek\Ukolnicek\ukolnicek\ukolnicek\ukolnicek\bin\Debug\netstandard2.0\ukolnicek.dll
+C:\Users\tomas\source\repos\ukolnicek\Ukolnicek\ukolnicek\ukolnicek\ukolnicek\obj\Debug\netstandard2.0\ukolnicek.csprojAssemblyReference.cache
+C:\Users\tomas\source\repos\ukolnicek\Ukolnicek\ukolnicek\ukolnicek\ukolnicek\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\tomas\source\repos\ukolnicek\Ukolnicek\ukolnicek\ukolnicek\ukolnicek\obj\Debug\netstandard2.0\UkolnicekEntryPage.xaml.g.cs
+C:\Users\tomas\source\repos\ukolnicek\Ukolnicek\ukolnicek\ukolnicek\ukolnicek\obj\Debug\netstandard2.0\ukolnicek.AssemblyInfoInputs.cache
+C:\Users\tomas\source\repos\ukolnicek\Ukolnicek\ukolnicek\ukolnicek\ukolnicek\obj\Debug\netstandard2.0\ukolnicek.AssemblyInfo.cs
+C:\Users\tomas\source\repos\ukolnicek\Ukolnicek\ukolnicek\ukolnicek\ukolnicek\obj\Debug\netstandard2.0\UkolnicekCreatePage.xaml.g.cs
+C:\Users\tomas\source\repos\ukolnicek\Ukolnicek\ukolnicek\ukolnicek\ukolnicek\obj\Debug\netstandard2.0\UkolnicekMainPage.xaml.g.cs
+C:\Users\tomas\source\repos\ukolnicek\Ukolnicek\ukolnicek\ukolnicek\ukolnicek\obj\Debug\netstandard2.0\ukolnicek.csproj.CoreCompileInputs.cache
+C:\Users\tomas\source\repos\ukolnicek\Ukolnicek\ukolnicek\ukolnicek\ukolnicek\bin\Debug\netstandard2.0\ref\ukolnicek.dll
+C:\Users\tomas\source\repos\ukolnicek\Ukolnicek\ukolnicek\ukolnicek\ukolnicek\bin\Debug\netstandard2.0\ukolnicek.pdb
+C:\Users\tomas\source\repos\ukolnicek\Ukolnicek\ukolnicek\ukolnicek\ukolnicek\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\tomas\source\repos\ukolnicek\Ukolnicek\ukolnicek\ukolnicek\ukolnicek\obj\Debug\netstandard2.0\ukolnicek.dll
+C:\Users\tomas\source\repos\ukolnicek\Ukolnicek\ukolnicek\ukolnicek\ukolnicek\obj\Debug\netstandard2.0\ref\ukolnicek.dll
+C:\Users\tomas\source\repos\ukolnicek\Ukolnicek\ukolnicek\ukolnicek\ukolnicek\obj\Debug\netstandard2.0\ukolnicek.pdb
