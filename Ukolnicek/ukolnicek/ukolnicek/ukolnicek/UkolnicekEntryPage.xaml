@@ -12,10 +12,10 @@
         <Editor Placeholder="Upravit úkol"
                 Text="{Binding Text}"
                 HeightRequest="100" />
-        <Label Text="Čas vytvoření"/>
-        <Label Text="{Binding New_Date}"/>
-        <Label Text="Čas poslední změny"/>
-        <Label Text="{Binding Original_Date}"/>
+        <Label Text="Čas a Datum poslední změny" HorizontalOptions="Center"/>
+        <Label Text="{Binding New_Date}" HorizontalOptions="Center"/>
+        <Label Text="Čas a Datum vytvoření" HorizontalOptions="Center"/>
+        <Label Text="{Binding Original_Date}" HorizontalOptions="Center"/>
         <Grid>
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="*" />

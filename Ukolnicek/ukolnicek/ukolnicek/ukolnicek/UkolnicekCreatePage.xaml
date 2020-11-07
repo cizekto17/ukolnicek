@@ -2,12 +2,12 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="ukolnicek.UkolnicekCreatePage"
-             Title="Note Entry">
+             Title="Úkol">
     <StackLayout Margin="20">
-        <Editor Placeholder="Enter Name of the note"
+        <Editor Placeholder="Zadejte název úkolu"
                 Text="{Binding Name}"
                 HeightRequest="100" />
-        <Editor Placeholder="Enter your note"
+        <Editor Placeholder="Zadejte úkol"
                 Text="{Binding Text}"
                 HeightRequest="100" />
         <Grid>
